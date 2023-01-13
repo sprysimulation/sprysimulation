@@ -6,3 +6,4 @@ Spry Simulation is Microsoft Excel add-in which enables system dynamics, discret
 
 During simulation run, Spry mimicks the passage of time by recalculating the model several times, for each consequtive time period. Data collection and statistics for specific cells in the model that interest you is also arranged as a spreadsheet function. Besides this, simulation models usually include stochastic variables, so to get reilable results Spry can repeat the whole model several times.
 
+Copyright (c) ABS CENTER Koper d.o.o. 2023
