@@ -1,3 +1,5 @@
+![Spry Simulation](docs/images/icons8-sports-mode-100.png)
+
 # Spry Simulation Excel add-in
 
 Spry Simulation is Microsoft Excel add-in which enables system dynamics, discrete-event and Monte Carlo simulation in modern spreadsheets, especially with small to medium-sized simulation models and for a proof-of-concept tasks. It brings additional spreadsheet functions that represent event generators, queues, state variables, delays, loops and other simulation elements that you can connect together while designing the model in spreadsheet. 
